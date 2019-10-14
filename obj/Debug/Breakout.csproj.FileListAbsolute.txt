@@ -1,0 +1,9 @@
+C:\Users\Keita\source\repos\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\Keita\source\repos\Breakout\bin\Debug\Breakout.exe
+C:\Users\Keita\source\repos\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Keita\source\repos\Breakout\obj\Debug\Breakout.csprojAssemblyReference.cache
+C:\Users\Keita\source\repos\Breakout\obj\Debug\Breakout.Form1.resources
+C:\Users\Keita\source\repos\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+C:\Users\Keita\source\repos\Breakout\obj\Debug\Breakout.csproj.GenerateResource.cache
+C:\Users\Keita\source\repos\Breakout\obj\Debug\Breakout.exe
+C:\Users\Keita\source\repos\Breakout\obj\Debug\Breakout.pdb
